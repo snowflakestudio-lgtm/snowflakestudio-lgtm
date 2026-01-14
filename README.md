@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.png" alt="Snowflake Studio" width="100%" />
+</p>
 
-<!--
-**snowflakestudio-lgtm/snowflakestudio-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Snowflake Studio</h2>
 
-Here are some ideas to get you started:
+We design and build digital experiences that feel premium, load fast, and scale cleanly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the past year, we’ve shipped brand sites, ecommerce builds, and product launches—combining taste, engineering, and obsessive execution.
+
+### Links
+- Agency: https://snowflake.studio
+- Work: https://snowflake.studio/work
+- Contact: https://snowflake.studio/contact
+
+---
+
+### What we do
+- Brand systems + digital design
+- Web development (marketing sites, ecommerce, custom builds)
+- SEO + performance foundations
+- Ongoing improvements, support, and iteration
+
+### How we work
+We start with discovery—listening hard, mapping goals, and defining what success looks like.
+Then we design in Figma, build to your infrastructure, and launch with clean foundations and measurable outcomes.
+
+### Contact
+contact@snowflake.studio
+Los Angeles
