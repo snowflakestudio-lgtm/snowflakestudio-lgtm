@@ -15,16 +15,6 @@ Over the past year, we’ve shipped brand sites, ecommerce builds, and product l
 
 ---
 
-### What we do
-- Brand systems + digital design
-- Web development (marketing sites, ecommerce, custom builds)
-- SEO + performance foundations
-- Ongoing improvements, support, and iteration
-
-### How we work
-We start with discovery—listening hard, mapping goals, and defining what success looks like.
-Then we design in Figma, build to your infrastructure, and launch with clean foundations and measurable outcomes.
-
 ### Contact
 contact@snowflake.studio
 Los Angeles
