@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header1.png" alt="Snowflake Studio" width="100%" />
+  <img src="header2.png" alt="Snowflake Studio" width="100%" />
 </p>
 
 <h2>Snowflake Studio</h2>
